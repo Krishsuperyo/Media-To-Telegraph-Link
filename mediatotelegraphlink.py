@@ -73,4 +73,4 @@ async def get_link_group(client, message):
 print("Bot is alive!")
 teletips.run()
 
-#Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
+#Copyright ©️ 2022 Krishsuperyo. All Rights Reserved
