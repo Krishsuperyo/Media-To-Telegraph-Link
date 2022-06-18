@@ -16,7 +16,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Krishsuperyo/Media-To-Telegraph-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LIGHTNING-BOTS-INDUSTRIES/Media-To-Telegraph-Link)
 
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
